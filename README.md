@@ -1,6 +1,9 @@
 # AndroidDebloater
 Android debloater specifically created for Samsung Galaxy Note10 running Android 11.
 
+## Disclaimer
+I cannot be held accountable for potential data corruption or the deletion of crucial packages. Some functionalities, whether essential or not, may cease to function properly. It is conceivable that critical features, such as geolocation for emergency calls, may no longer operate as expected. I cannot provide assurance in this regard as my testing was limited to my own device and typical daily tasks. This project serves as a learning exercise, created solely for the purpose of acquiring new knowledge. By utilizing this script, you are fully aware of your actions and assume responsibility for your choices.
+
 ## Requirements
 Just ADB, no need for a rooted device.
 
@@ -8,7 +11,7 @@ Just ADB, no need for a rooted device.
 <ul>
     <li>Save battery life for a greener future</li>
     <li>Improve device's performance</li>
-    <li>Remove creepy trackers and unwanted personalization features</li>
+    <li>Remove trackers and unwanted personalization features</li>
     <li>Study how the Android system works and what is each service's purpouse</li>
 </ul>
 
