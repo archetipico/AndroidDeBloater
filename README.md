@@ -10,9 +10,9 @@ Just ADB, no need for a rooted device.
 ## Applications
 <ul>
     <li>Save battery life for a greener future</li>
-    <li>Improve device's performance</li>
+    <li>Enhance device efficiency</li>
     <li>Remove trackers and unwanted personalization features</li>
-    <li>Study how the Android system works and what is each service's purpouse</li>
+    <li>Study how the Android system works and the specific roles of each service</li>
 </ul>
 
 ## Usage
