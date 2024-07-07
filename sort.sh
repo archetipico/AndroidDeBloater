@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cat bloaters | sort | tee bloaters
+sort bloaters | tee $(mktemp) > bloaters
+sort bloaters-light | tee $(mktemp) > bloaters-light
